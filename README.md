@@ -27,6 +27,8 @@ This is my study notes for AZ 500. As we know, Microsoft Azure exams are constan
 * Pete Zerger: https://www.youtube.com/watch?v=jdsBolMxhiw
 
 ## Configure secure access by using Azure AD
+* How to roll out conditional access | Azure Active Directory: https://www.youtube.com/watch?v=0_Fze7Zpyvc
+* How to deploy conditional access | Azure Active Directory: https://www.youtube.com/watch?v=c_izIRNJNuk
 * John Savill, Azure Security Center and Azure Sentinel Overview (AZ-500): https://www.youtube.com/watch?v=rE-qgIgDCq8
 * John Savill, Azure AD Privileged Identity Management (PIM) - AZ-500, SC-300 Deep Dive Topic: https://www.youtube.com/watch?v=gccgIkR8_a0
 
