@@ -1,5 +1,5 @@
 # Introduction
-This is my study notes for AZ 500. I am using the updated list from March 23, 2021. My notes are up-to-date as of April 2021. Feel free to reference for your own study but if you are here after a year, you most likely want to check if my notes are still relevant. Enjoy!
+This is my study notes for AZ 500. As we know, Microsoft Azure exams are constantly updated. For your reference, I am using the updated list from March 23, 2021 and my notes are up-to-date as of April 2021. Feel free to reference for your own study but if you are here after a year, you most likely want to check if my notes are still relevant. Enjoy!
 
 <br />
 
@@ -27,6 +27,7 @@ This is my study notes for AZ 500. I am using the updated list from March 23, 20
 * Pete Zerger: https://www.youtube.com/watch?v=jdsBolMxhiw
 * John Savill, Azure Security Center and Azure Sentinel Overview (AZ-500): https://www.youtube.com/watch?v=rE-qgIgDCq8
 * John Savill, Azure AD Privileged Identity Management (PIM) - AZ-500, SC-300 Deep Dive Topic: https://www.youtube.com/watch?v=gccgIkR8_a0
+* John Savill, Azure AD App Registrations, Enterprise Apps and Service Principals: https://www.youtube.com/watch?v=WVNvoiA_ktw
 
 <br />
 
