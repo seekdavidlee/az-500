@@ -25,8 +25,13 @@ This is my study notes for AZ 500. As we know, Microsoft Azure exams are constan
 # Manage Identity and Access
 * Mark Grimes Module 1: https://www.youtube.com/watch?v=ps9EcICGHJ0
 * Pete Zerger: https://www.youtube.com/watch?v=jdsBolMxhiw
+
+## Configure secure access by using Azure AD
 * John Savill, Azure Security Center and Azure Sentinel Overview (AZ-500): https://www.youtube.com/watch?v=rE-qgIgDCq8
 * John Savill, Azure AD Privileged Identity Management (PIM) - AZ-500, SC-300 Deep Dive Topic: https://www.youtube.com/watch?v=gccgIkR8_a0
+
+## Manage application access
+* Pete Zerger, Azure AD App Registration in Plain English (Exam Prep FAQs): https://www.youtube.com/watch?v=YWvl0cIilyA
 * John Savill, Azure AD App Registrations, Enterprise Apps and Service Principals: https://www.youtube.com/watch?v=WVNvoiA_ktw
 
 <br />
