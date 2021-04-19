@@ -3,7 +3,7 @@ This is my study notes for AZ 500. As we know, Microsoft Azure exams are constan
 
 <br />
 
-## The Exam Facts
+## The Exam
 | Description | Weight | Notes |
 | --- | --- | -- |
 | Manage identity and access | 30-35% | AAD/ Identity/ Application Access/ Access Control |
