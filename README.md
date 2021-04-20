@@ -14,6 +14,8 @@ This is my study notes for AZ 500. As we know, the Azure Platform itself is cons
 <br />
 
 ## Quiz
+This is an excellent way to gauge if you are prepared for the exam. I would suggest the best time to go through the quizes is when you have gone through all the materials. The credit for these quizes goes to Pete Zerger who prepared these. Note that some answers may be incorrect as things have changed. For example, Azure Key Vault data plane now supports RBAC in addition to access policies.
+
 * Microsoft AZ-500 Practice Quiz #1 (video self-assessment): https://www.youtube.com/watch?v=XAgb-4FfPes
 * Microsoft AZ-500 Practice Quiz #2 (video self-assessment): https://www.youtube.com/watch?v=jOBaVXVwXLc
 * Microsoft AZ-500 Practice Quiz #3 (video self-assessment): https://www.youtube.com/watch?v=j79qRN9cNA0
@@ -26,7 +28,8 @@ This is my study notes for AZ 500. As we know, the Azure Platform itself is cons
 | --- | --- |
 | Microsoft Learnings - Lab | https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/  |
 | Another study guide by Mike Grimes  | https://aka.ms/AZ-500 |
-| Register for MFA  | https://aka.ms/MFASetup |
+| Linked in Videos | https://www.linkedin.com/learning/paths/microsoft-exam-az-500-microsoft-azure-security-technologies |
+| Official Exam Reference | https://learning.oreilly.com/library/view/exam-ref-az-500/9780136789000 |
 
 <br />
 
@@ -39,6 +42,7 @@ This is my study notes for AZ 500. As we know, the Azure Platform itself is cons
 * How to deploy conditional access | Azure Active Directory: https://www.youtube.com/watch?v=c_izIRNJNuk
 * John Savill, Azure Security Center and Azure Sentinel Overview (AZ-500): https://www.youtube.com/watch?v=rE-qgIgDCq8
 * John Savill, Azure AD Privileged Identity Management (PIM) - AZ-500, SC-300 Deep Dive Topic: https://www.youtube.com/watch?v=gccgIkR8_a0
+* Link to register for MFA: https://aka.ms/MFASetup
 
 ## Manage application access
 * Pete Zerger, Azure AD App Registration in Plain English (Exam Prep FAQs): https://www.youtube.com/watch?v=YWvl0cIilyA
