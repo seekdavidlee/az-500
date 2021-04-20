@@ -13,7 +13,15 @@ This is my study notes for AZ 500. As we know, the Azure Platform itself is cons
 
 <br />
 
-# References
+## Quiz
+* Microsoft AZ-500 Practice Quiz #1 (video self-assessment): https://www.youtube.com/watch?v=XAgb-4FfPes
+* Microsoft AZ-500 Practice Quiz #2 (video self-assessment): https://www.youtube.com/watch?v=jOBaVXVwXLc
+* Microsoft AZ-500 Practice Quiz #3 (video self-assessment): https://www.youtube.com/watch?v=j79qRN9cNA0
+* Microsoft AZ-500 Practice Quiz #4 (video self-assessment): https://www.youtube.com/watch?v=CqPGpfdETSM
+
+<br />
+
+## References
 | Description | Link |
 | --- | --- |
 | Microsoft Learnings - Lab | https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/  |
