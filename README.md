@@ -44,6 +44,9 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 * John Savill, Azure AD Privileged Identity Management (PIM) - AZ-500, SC-300 Deep Dive Topic: https://www.youtube.com/watch?v=gccgIkR8_a0
 * Link to register for MFA: https://aka.ms/MFASetup
 
+### Conditional Access
+* Exclude action overrides an include in policy i.e. If User or User Group is in both Include and Exclude list, the User or Group will be excluded from Policy
+
 ## Manage application access
 * Pete Zerger, Azure AD App Registration in Plain English (Exam Prep FAQs): https://www.youtube.com/watch?v=YWvl0cIilyA
 * John Savill, Azure AD App Registrations, Enterprise Apps and Service Principals: https://www.youtube.com/watch?v=WVNvoiA_ktw
