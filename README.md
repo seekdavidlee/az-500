@@ -45,7 +45,16 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 * Link to register for MFA: https://aka.ms/MFASetup
 
 ### Conditional Access
+* P1 License
 * Exclude action overrides an include in policy i.e. If User or User Group is in both Include and Exclude list, the User or Group will be excluded from Policy
+
+### Privileged Identity Management
+* P2 License
+* Just-in-time, time bound access to Azure AD and Azure resources
+* Approval process
+* MFA, justification to activate, and notifications when activated
+* Access Review
+* Audit history that can be downloaded
 
 ## Manage application access
 * Pete Zerger, Azure AD App Registration in Plain English (Exam Prep FAQs): https://www.youtube.com/watch?v=YWvl0cIilyA
