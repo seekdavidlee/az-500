@@ -1,5 +1,5 @@
 # Introduction
-This is my study notes for AZ 500. As we know, the Azure Platform is constantly being updated, which means that the Azure exams are also constantly updated. As such, it is important to check if my notes are still applicable to you. For your reference, I am using the updated exam list from March 23, 2021 and my notes are up-to-date as of April 2021. Feel free to reference for your own study! Good luck and enjoy!
+This is my study notes for AZ 500. As we know, the Azure Platform is constantly being updated, which means that the Azure exams are also constantly updated. As such, it is important to check if my notes are still applicable to you. For your reference, I am using the updated exam list from March 23, 2021 and my notes are up-to-date as of April 2021. You will find that the way that works for me when studying is to reference videos from experts and it may be different for everyone. Anyone, feel free to reference for your own study! Good luck and enjoy!
 
 <br />
 
