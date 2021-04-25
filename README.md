@@ -48,7 +48,12 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 * P1 License OR Enterprise Mobility + Security E3 
 * Exclude action overrides an include in policy i.e. If User or User Group is in both Include and Exclude list, the User or Group will be excluded from Policy
 
-### Privileged Identity Management (PIM)
+### Identity Protection
+* Detect + remediate identity-based risks
+* Investigate risk
+* Export risk data to third party
+
+### Identity Governance - Privileged Identity Management (PIM)
 * P2 License OR Enterprise Mobility + Security (EMS) E5
 * Just-in-time, time bound access to Azure AD and Azure resources
 * Approval process
