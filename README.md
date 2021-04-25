@@ -45,11 +45,11 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 * Link to register for MFA: https://aka.ms/MFASetup
 
 ### Conditional Access
-* P1 License
+* P1 License OR Enterprise Mobility + Security E3 
 * Exclude action overrides an include in policy i.e. If User or User Group is in both Include and Exclude list, the User or Group will be excluded from Policy
 
-### Privileged Identity Management
-* P2 License
+### Privileged Identity Management (PIM)
+* P2 License OR Enterprise Mobility + Security (EMS) E5
 * Just-in-time, time bound access to Azure AD and Azure resources
 * Approval process
 * MFA, justification to activate, and notifications when activated
