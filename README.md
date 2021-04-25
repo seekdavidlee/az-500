@@ -49,17 +49,17 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 * Exclude action overrides an include in policy i.e. If User or User Group is in both Include and Exclude list, the User or Group will be excluded from Policy
 
 ### Identity Protection
+* P2 License OR Enterprise Mobility + Security (EMS) E5
 * Detect + remediate identity-based risks
 * Investigate risk
 * Export risk data to third party
 
 ### Identity Governance - Privileged Identity Management (PIM)
 * P2 License OR Enterprise Mobility + Security (EMS) E5
-* Just-in-time, time bound access to Azure AD and Azure resources
-* Approval process
+* Entitlement - Just-in-time, time bound access to Azure AD and Azure resources + Approval process
 * MFA, justification to activate, and notifications when activated
 * Access Review
-* Audit history that can be downloaded
+* Audit history
 
 ## Manage application access
 * Pete Zerger, Azure AD App Registration in Plain English (Exam Prep FAQs): https://www.youtube.com/watch?v=YWvl0cIilyA
