@@ -1,9 +1,9 @@
-# Introduction
+# 1.0 Introduction
 This is my study notes for AZ 500. As we know, the Azure Platform is constantly being updated, which means that the Azure exams are also constantly updated. As such, it is important to check if my notes are still applicable to you. For your reference, I am using the updated exam list from March 23, 2021 and my notes are up-to-date as of April 2021. You will find that the way that works for me when studying is to reference videos from experts and it may be different for everyone. Anyone, feel free to reference for your own study! Good luck and enjoy!
 
 <br />
 
-## The Exam
+## 1.1 The Exam
 | Description | Weight | Notes |
 | --- | --- | -- |
 | Manage identity and access | 30-35% | AAD/ Identity/ Application Access/ Access Control |
@@ -13,7 +13,7 @@ This is my study notes for AZ 500. As we know, the Azure Platform is constantly 
 
 <br />
 
-## Quiz
+## 1.2 Quiz
 This is an excellent way to gauge if you are prepared for the exam. I would suggest the best time to go through the quizes is when you have gone through all the materials. The credit for these quizes goes to Pete Zerger who prepared these. Note that some answers may be incorrect as things have changed. For example, Azure Key Vault data plane now supports RBAC in addition to access policies.
 
 * Microsoft AZ-500 Practice Quiz #1 (video self-assessment): https://www.youtube.com/watch?v=XAgb-4FfPes
@@ -23,7 +23,7 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 
 <br />
 
-## References
+## 1.3 References
 | Description | Link |
 | --- | --- |
 | Microsoft Learnings - Lab | https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/  |
@@ -33,7 +33,7 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 
 <br />
 
-# Manage Identity and Access
+# 2.0 Manage Identity and Access
 * Mark Grimes Module 1: https://www.youtube.com/watch?v=ps9EcICGHJ0
 * Pete Zerger: https://www.youtube.com/watch?v=jdsBolMxhiw
 
@@ -78,21 +78,19 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 
 <br />
 
-# Implement Platform Protection
+# 3.0 Implement Platform Protection
 * Mark Grimes Module 2: https://www.youtube.com/watch?v=huoQReklaRM
 * Pete Zerger: https://www.youtube.com/watch?v=Ax8iTC8oZY8
 
 <br />
 
-# Manage Security Operations
+# 4.0 Manage Security Operations
 * Mark Grimes Module 3: https://www.youtube.com/watch?v=NUfMtd12KQE
 * Pete Zerger: https://www.youtube.com/watch?v=qfSSKFL9rNg
 
 <br />
 
-# Secure Data and Applications
+# 5.0 Secure Data and Applications
 * Mark Grimes Module 4: https://www.youtube.com/watch?v=AfQV4gB2ldM
 * Pete Zerger: https://www.youtube.com/watch?v=nwTTL7Oi2-k
 * John Savill, Azure Key Vault Deep Dive (AZ-500): https://www.youtube.com/watch?v=kP7KpfToMkg&t=2s
-
-<br />
