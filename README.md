@@ -60,6 +60,22 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 * Pete Zerger, Azure AD App Registration in Plain English (Exam Prep FAQs): https://www.youtube.com/watch?v=YWvl0cIilyA
 * John Savill, Azure AD App Registrations, Enterprise Apps and Service Principals: https://www.youtube.com/watch?v=WVNvoiA_ktw
 
+### OAuth 2.0
+* Third-party app access web-hosted resources on behalf of a user
+* Permisson: Principle of least privilege, asking for only the permissions they need for their applications to function
+* These types of permission sets are called scopes
+
+| Delegated | Application |
+| --- | --- |
+| User MUST be signed in | User is NOT signed in  |
+| User or Admin consent  | Only Admin consent |
+| Effective permissions is what user is allowed, and what user has allowed by consent  | Effective permissions of your app are the full level of privileges implied by the permission |
+
+<br />
+
+### Manage access control
+* RBAC - Apply to Management Group, Subscription, RG, Resources
+
 <br />
 
 # Implement Platform Protection
