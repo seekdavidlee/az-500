@@ -84,7 +84,7 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 <br />
 
 ### 2.4 Manage access control
-* RBAC - Apply to Management Group, Subscription, RG, Resources
+* Adam Marczak, AZ-900 Episode 28 | Azure Role-based Access Control (RBAC): https://www.youtube.com/watch?v=4v7ffXxOnwU
 
 <br />
 
@@ -96,7 +96,9 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 
 ## 3.1 Implement advanced network security
 * John Savill, Azure Master Class Part 6 - Networking: https://www.youtube.com/watch?v=K8ePZdLfU7M
-* 
+* Adam Marczak, AZ-900 Episode 23 | Azure Firewall - https://www.youtube.com/watch?v=VIEaz869njk
+* Azure Academy, Azure Networking - #13 - Azure Front Door - https://www.youtube.com/watch?v=6PK88DDU3K4&t=872s
+
 <br />
 
 ## 3.2 Configure advanced security for compute
