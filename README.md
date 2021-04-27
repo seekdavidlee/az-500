@@ -119,11 +119,12 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 <br />
 
 ## 4.2 Monitor security by using Azure Security Center
-
+* Adam Marczak, AZ-900 Episode 26 | Azure Security Center: https://www.youtube.com/watch?v=tyztKP9rszU
+* What’s new in Azure Security Center: https://www.youtube.com/watch?v=iqfoK4wIGA4
 <br />
 
 ## 4.3 Monitor security by using Azure Sentinel
-
+* Improve security with Azure Sentinel, a cloud-native SIEM and SOAR solution | Azure Friday: https://www.youtube.com/watch?v=oiWInLYvnUk
 <br />
 
 ## 4.4 Configure security policies
