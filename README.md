@@ -37,6 +37,10 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 * Mark Grimes Module 1: https://www.youtube.com/watch?v=ps9EcICGHJ0
 * Pete Zerger: https://www.youtube.com/watch?v=jdsBolMxhiw
 
+## Manage Azure Active Directory identities
+* John Savill, Azure AD Administrative Units Overview: https://www.youtube.com/watch?v=1-x86jJuK7c
+* Review decision tree: https://docs.microsoft.com/en-us/azure/active-directory/hybrid/choose-ad-authn#decision-tree
+
 ## Configure secure access by using Azure AD
 * How to roll out conditional access | Azure Active Directory: https://www.youtube.com/watch?v=0_Fze7Zpyvc
 * How to deploy conditional access | Azure Active Directory: https://www.youtube.com/watch?v=c_izIRNJNuk
