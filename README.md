@@ -105,6 +105,8 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 
 ## 3.2 Configure advanced security for compute
 * John Savill, Azure Kubernetes Service (AKS) Networking Deep Dive: https://www.youtube.com/watch?v=6TZsd4toIbg
+* John Savill, Azure Disk Encryption: https://www.youtube.com/watch?v=EOXgzTqceok
+* How to use Azure App Service managed certificates | Azure Tips and Tricks: https://www.youtube.com/watch?v=qPphhM2v3xU
 <br />
 
 # 4.0 Manage Security Operations
