@@ -1,10 +1,6 @@
 # 1.0 Introduction
 This is my study notes for AZ 500. As we know, the Azure Platform is constantly being updated, which means that the Azure exams are also constantly updated. As such, it is important to check if my notes are still applicable to you. For your reference, I am using the updated exam list from March 23, 2021 and my notes are up-to-date as of April 2021. You will find that the way that works for me when studying is to reference videos from experts and it may be different for everyone. Anyone, feel free to reference for your own study! Good luck and enjoy!
 
-This is a good introduction before we start diving in.
-
-* John Savill, Azure Master Class Part 9 - Monitoring and Security: https://www.youtube.com/watch?v=hTS8jXEX_88
-
 <br />
 
 ## 1.1 The Exam
@@ -110,6 +106,7 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 # 4.0 Manage Security Operations
 * Mark Grimes Module 3: https://www.youtube.com/watch?v=NUfMtd12KQE
 * Pete Zerger: https://www.youtube.com/watch?v=qfSSKFL9rNg
+* John Savill, Azure Master Class Part 9 - Monitoring and Security: https://www.youtube.com/watch?v=hTS8jXEX_88
 
 <br />
 
@@ -132,6 +129,7 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 # 5.0 Secure Data and Applications
 * Mark Grimes Module 4: https://www.youtube.com/watch?v=AfQV4gB2ldM
 * Pete Zerger: https://www.youtube.com/watch?v=nwTTL7Oi2-k
+* John Savill, Azure Master Class Part 8 - Application Services: https://www.youtube.com/watch?v=_E73_SQN8ZU
 
 <br />
 
