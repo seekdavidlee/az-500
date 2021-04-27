@@ -115,6 +115,7 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 
 ## 4.1 Monitor security by using Azure Monitor
 * John Savill, Azure Master Class Part 9 - Monitoring and Security: https://www.youtube.com/watch?v=hTS8jXEX_88
+* John Savill, Azure Update Management: https://www.youtube.com/watch?v=8HPUKgKYNeY
 * Thomas Maurer, Manage updates and patches for your Azure VMs: https://www.youtube.com/watch?v=OkNVCWXseRA
 <br />
 
