@@ -104,18 +104,18 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 <br />
 
 ## 3.2 Configure advanced security for compute
-
+* John Savill, Azure Kubernetes Service (AKS) Networking Deep Dive: https://www.youtube.com/watch?v=6TZsd4toIbg
 <br />
 
 # 4.0 Manage Security Operations
 * Mark Grimes Module 3: https://www.youtube.com/watch?v=NUfMtd12KQE
 * Pete Zerger: https://www.youtube.com/watch?v=qfSSKFL9rNg
-* John Savill, Azure Master Class Part 9 - Monitoring and Security: https://www.youtube.com/watch?v=hTS8jXEX_88
 
 <br />
 
 ## 4.1 Monitor security by using Azure Monitor
-
+* John Savill, Azure Master Class Part 9 - Monitoring and Security: https://www.youtube.com/watch?v=hTS8jXEX_88
+* Thomas Maurer, Manage updates and patches for your Azure VMs: https://www.youtube.com/watch?v=OkNVCWXseRA
 <br />
 
 ## 4.2 Monitor security by using Azure Security Center
@@ -128,7 +128,8 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 <br />
 
 ## 4.4 Configure security policies
-
+* John Savill, Azure Master Class Part 3 - Governance - Azure Policy: https://www.youtube.com/watch?v=cIh_Nfl67T0&t=2830s
+* John Savill, Azure Master Class Part 3 - Governance - Blueprint https://www.youtube.com/watch?v=cIh_Nfl67T0&t=4620s
 <br />
 
 # 5.0 Secure Data and Applications
