@@ -36,12 +36,13 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 # 2.0 Manage Identity and Access
 * Mark Grimes Module 1: https://www.youtube.com/watch?v=ps9EcICGHJ0
 * Pete Zerger: https://www.youtube.com/watch?v=jdsBolMxhiw
+* John Savill, Azure Master Class Part 2 - Identity: https://www.youtube.com/watch?v=Jd3IzN9x2as
 
-## Manage Azure Active Directory identities
+## 2.1 Manage Azure Active Directory identities
 * John Savill, Azure AD Administrative Units Overview: https://www.youtube.com/watch?v=1-x86jJuK7c
 * Review decision tree: https://docs.microsoft.com/en-us/azure/active-directory/hybrid/choose-ad-authn#decision-tree
 
-## Configure secure access by using Azure AD
+## 2.2 Configure secure access by using Azure AD
 * How to roll out conditional access | Azure Active Directory: https://www.youtube.com/watch?v=0_Fze7Zpyvc
 * How to deploy conditional access | Azure Active Directory: https://www.youtube.com/watch?v=c_izIRNJNuk
 * John Savill, Azure Security Center and Azure Sentinel Overview (AZ-500): https://www.youtube.com/watch?v=rE-qgIgDCq8
@@ -65,7 +66,7 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 * Access Review
 * Audit history
 
-## Manage application access
+## 2.3 Manage application access
 * Pete Zerger, Azure AD App Registration in Plain English (Exam Prep FAQs): https://www.youtube.com/watch?v=YWvl0cIilyA
 * John Savill, Azure AD App Registrations, Enterprise Apps and Service Principals: https://www.youtube.com/watch?v=WVNvoiA_ktw
 
@@ -82,7 +83,7 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 
 <br />
 
-### Manage access control
+### 2.4 Manage access control
 * RBAC - Apply to Management Group, Subscription, RG, Resources
 
 <br />
@@ -93,13 +94,50 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 
 <br />
 
+## 3.1 Implement advanced network security
+
+<br />
+
+## 3.2 Configure advanced security for compute
+
+<br />
+
 # 4.0 Manage Security Operations
 * Mark Grimes Module 3: https://www.youtube.com/watch?v=NUfMtd12KQE
 * Pete Zerger: https://www.youtube.com/watch?v=qfSSKFL9rNg
 
 <br />
 
+## 4.1 Monitor security by using Azure Monitor
+
+<br />
+
+## 4.2 Monitor security by using Azure Security Center
+
+<br />
+
+## 4.3 Monitor security by using Azure Sentinel
+
+<br />
+
+## 4.4 Configure security policies
+
+<br />
+
 # 5.0 Secure Data and Applications
 * Mark Grimes Module 4: https://www.youtube.com/watch?v=AfQV4gB2ldM
 * Pete Zerger: https://www.youtube.com/watch?v=nwTTL7Oi2-k
+
+<br />
+
+## 5.1 Configure security for storage
+
+<br />
+
+## 5.2 Configure security for databases
+
+<br />
+
+## 5.3 Configure and manage Key Vault
 * John Savill, Azure Key Vault Deep Dive (AZ-500): https://www.youtube.com/watch?v=kP7KpfToMkg&t=2s
+
