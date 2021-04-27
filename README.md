@@ -146,5 +146,6 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 <br />
 
 ## 5.3 Configure and manage Key Vault
+* Adam Marczak, AZ-900 Episode 27 | Azure Key Vault | Secret, Key and Certificate Management: https://www.youtube.com/watch?v=AA3yYg9Zq9w
 * John Savill, Azure Key Vault Deep Dive (AZ-500): https://www.youtube.com/watch?v=kP7KpfToMkg&t=2s
 
