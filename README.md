@@ -98,6 +98,7 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 * John Savill, Azure Master Class Part 6 - Networking: https://www.youtube.com/watch?v=K8ePZdLfU7M
 * Adam Marczak, AZ-900 Episode 23 | Azure Firewall - https://www.youtube.com/watch?v=VIEaz869njk
 * Azure Academy, Azure Networking - #13 - Azure Front Door - https://www.youtube.com/watch?v=6PK88DDU3K4&t=872s
+* How to use Azure Bastion to connect securely to your Azure VMs | Azure Friday: https://www.youtube.com/watch?v=WElUQm02BTU
 
 <br />
 
