@@ -132,6 +132,8 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 
 ## 4.3 Monitor security by using Azure Sentinel
 * Improve security with Azure Sentinel, a cloud-native SIEM and SOAR solution | Azure Friday: https://www.youtube.com/watch?v=oiWInLYvnUk
+* Investigate and automate threat responses | Azure Sentinel Part 3: https://www.youtube.com/watch?v=rBPfDUOqkQo
+* Threat response with Azure Sentinel playbooks | LRN253: https://www.youtube.com/watch?v=bYJif6Lw86Q&t=2287s
 <br />
 
 ## 4.4 Configure security policies
