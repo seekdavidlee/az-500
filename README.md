@@ -160,6 +160,7 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 ## 5.2 Configure security for databases
 * Demo: Azure AD Authentication for Azure SQL | Azure SQL for beginners (Ep. 25): https://www.youtube.com/watch?v=IwpmLUpvTBA
 * Demo: Configure Auditing for Azure SQL Database | Azure SQL for beginners (Ep. 29): https://www.youtube.com/watch?v=7uDloadggmA
+* Demo: Data Classification, Dynamic Data Masking, and SQL Audit... | Azure SQL for beginners (Ep. 32): https://www.youtube.com/watch?v=_aJiFzyPfnE
 * How to configure Advanced Threat Protection in Azure SQL Database | Azure Tips and Tricks: https://www.youtube.com/watch?v=IODL8gwWJE4
 * Azure SQL Security: The What, Why & How of Securing your Data with Azure SQL | Data Exposed Live: https://www.youtube.com/watch?v=g-ErYzXWq9Q&t=589s
 * SQL Server 2019 Always Encrypted: The Searchable Encryption! | Data Exposed MVP Edition: https://www.youtube.com/watch?v=beis_ivbQbo
