@@ -51,6 +51,7 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 * How to deploy conditional access | Azure Active Directory: https://www.youtube.com/watch?v=c_izIRNJNuk
 * John Savill, Azure Security Center and Azure Sentinel Overview (AZ-500): https://www.youtube.com/watch?v=rE-qgIgDCq8
 * John Savill, Azure AD Privileged Identity Management (PIM) - AZ-500, SC-300 Deep Dive Topic: https://www.youtube.com/watch?v=gccgIkR8_a0
+* The science behind Azure Active Directory Identity Protection | OD294: https://www.youtube.com/watch?v=qexveEs6IAE&t=223s
 * Link to register for MFA: https://aka.ms/MFASetup
 
 ### Conditional Access
