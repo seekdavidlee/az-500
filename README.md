@@ -152,6 +152,7 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 <br />
 
 ## 5.1 Configure security for storage
+* John Savill, Azure Files AD Authentication Integration: https://www.youtube.com/watch?v=LWKkva4ksdg
 * John Savill, Azure Master Class Part 5 - Storage: https://www.youtube.com/watch?v=ZNuzmUKt6IE&list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY&index=6
 <br />
 
