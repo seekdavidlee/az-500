@@ -154,9 +154,12 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 ## 5.1 Configure security for storage
 * John Savill, Azure Files AD Authentication Integration: https://www.youtube.com/watch?v=LWKkva4ksdg
 * John Savill, Azure Master Class Part 5 - Storage: https://www.youtube.com/watch?v=ZNuzmUKt6IE&list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY&index=6
+* Azure Defender for Azure Storage | Azure Security Center in the Field #15: https://www.youtube.com/watch?v=BwWJ-44AZkw
 <br />
 
 ## 5.2 Configure security for databases
+* Demo: Azure AD Authentication for Azure SQL | Azure SQL for beginners (Ep. 25): https://www.youtube.com/watch?v=IwpmLUpvTBA
+* Demo: Configure Auditing for Azure SQL Database | Azure SQL for beginners (Ep. 29): https://www.youtube.com/watch?v=7uDloadggmA
 * How to configure Advanced Threat Protection in Azure SQL Database | Azure Tips and Tricks: https://www.youtube.com/watch?v=IODL8gwWJE4
 * Azure SQL Security: The What, Why & How of Securing your Data with Azure SQL | Data Exposed Live: https://www.youtube.com/watch?v=g-ErYzXWq9Q&t=589s
 * SQL Server 2019 Always Encrypted: The Searchable Encryption! | Data Exposed MVP Edition: https://www.youtube.com/watch?v=beis_ivbQbo
