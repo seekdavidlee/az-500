@@ -1,5 +1,7 @@
 # 1.0 Introduction
-This is my study notes for AZ 500. As we know, the Azure Platform is constantly being updated, which means that the Azure exams are also constantly updated. As such, it is important to check if my notes are still applicable to you. For your reference, I am using the updated exam list from March 23, 2021 and my notes are up-to-date as of April 2021. You will find that the way that works for me when studying is to reference videos from experts and it may be different for everyone. Anyone, feel free to reference for your own study! Good luck and enjoy!
+This is my study notes for AZ 500. I find it particularly useful as I am studying, to watch presentations from experts who has made videos on YouTube versus reading up the docs. Hence, you will find lots of video references below VS notes.
+
+As we know, the Azure Platform is constantly being updated, which means that the Azure exams are also constantly updated. As such, it is important to check if my notes are still applicable to you. For your reference, I am using the updated exam list from March 23, 2021 and my notes are up-to-date as of April 2021. Anyway, feel free to reference for your own study! Good luck and enjoy!
 
 <br />
 
@@ -116,8 +118,10 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 <br />
 
 ## 4.1 Monitor security by using Azure Monitor
+* How to configure an Alert Rule with Azure Monitor: https://www.youtube.com/watch?v=ps4iasnS7Qs
 * John Savill, Azure Master Class Part 9 - Monitoring and Security: https://www.youtube.com/watch?v=hTS8jXEX_88
 * John Savill, Azure Update Management: https://www.youtube.com/watch?v=8HPUKgKYNeY
+* Azure Automation Update Management: https://docs.microsoft.com/en-us/azure/architecture/hybrid/azure-update-mgmt
 * Thomas Maurer, Manage updates and patches for your Azure VMs: https://www.youtube.com/watch?v=OkNVCWXseRA
 <br />
 
