@@ -132,6 +132,7 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 ## 4.2 Monitor security by using Azure Security Center
 * Vulnerability assessment | Azure Security Center in the Field #3: https://www.youtube.com/watch?v=2VLtjyrKMdE&t=113s
 * Azure Security Center: Enable JIT on your VMs from Azure Security Center: https://www.youtube.com/watch?v=rKFLSwAaV0g
+* Continuous export and workflow automation | Azure Security Center in the Field #5: https://www.youtube.com/watch?v=FgzcoSsCspo&t=184s
 * Adam Marczak, AZ-900 Episode 26 | Azure Security Center: https://www.youtube.com/watch?v=tyztKP9rszU
 * What’s new in Azure Security Center: https://www.youtube.com/watch?v=iqfoK4wIGA4
 <br />
