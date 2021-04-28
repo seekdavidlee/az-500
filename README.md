@@ -1,7 +1,9 @@
 # 1.0 Introduction
 This is my study notes for AZ 500. I find it particularly useful as I am studying, to watch presentations from experts who has made videos on YouTube versus reading up the docs. Hence, you will find lots of video references below VS notes. As a disclaimer, my list may NOT include everything mentioned in skills measured doc and may NOT include everything you need to understand a particular topic, so please check!
 
-As we know, the Azure Platform is constantly being updated, which means that the Azure exams are also constantly updated. As such, it is important to check if my notes are still applicable to you. For your reference, I am using the updated exam list from March 23, 2021 and my notes are up-to-date as of April 2021. Anyway, feel free to reference for your own study! Good luck and enjoy!
+As we know, the Azure Platform is constantly being updated, which means that the Azure exams are also constantly updated. As such, it is important to check if my notes are still applicable to you. For your reference, I am using the updated exam list from March 23, 2021 and my notes are up-to-date as of April 2021. 
+
+Anyway, feel free to reference for your own study! Good luck and enjoy!
 
 <br />
 
