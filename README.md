@@ -45,13 +45,17 @@ This is an excellent way to gauge if you are prepared for the exam. I would sugg
 ## 2.1 Manage Azure Active Directory identities
 * John Savill, Azure AD Administrative Units Overview: https://www.youtube.com/watch?v=1-x86jJuK7c
 * Review decision tree: https://docs.microsoft.com/en-us/azure/active-directory/hybrid/choose-ad-authn#decision-tree
+* Group management | Azure Active Directory: https://www.youtube.com/watch?v=H6aZs0Q-kOA
+* Advanced features of group management | Azure Active Directory: https://www.youtube.com/watch?v=e9zUqQx5upY
 
 ## 2.2 Configure secure access by using Azure AD
 * How to roll out conditional access | Azure Active Directory: https://www.youtube.com/watch?v=0_Fze7Zpyvc
 * How to deploy conditional access | Azure Active Directory: https://www.youtube.com/watch?v=c_izIRNJNuk
 * John Savill, Azure Security Center and Azure Sentinel Overview (AZ-500): https://www.youtube.com/watch?v=rE-qgIgDCq8
 * John Savill, Azure AD Privileged Identity Management (PIM) - AZ-500, SC-300 Deep Dive Topic: https://www.youtube.com/watch?v=gccgIkR8_a0
-* The science behind Azure Active Directory Identity Protection | OD294: https://www.youtube.com/watch?v=qexveEs6IAE&t=223s
+* What is Identity Protection? | Azure Active Directory: https://www.youtube.com/watch?v=1REQYdZ6364
+* How to use Identity Protection | Azure Active Directory: https://www.youtube.com/watch?v=zvCMpkOwRPs
+* _Not required but interesting to understand!_ The science behind Azure Active Directory Identity Protection | OD294: https://www.youtube.com/watch?v=qexveEs6IAE&t=223s
 * Link to register for MFA: https://aka.ms/MFASetup
 
 ### Conditional Access
